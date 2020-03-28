@@ -1,21 +1,20 @@
 package Shop;
 
 import Accessories.Accessory;
+import Behaviours.ISell;
 import Instruments.Instrument;
 
 import java.util.ArrayList;
 
 public class Shop {
 
-    private ArrayList<Accessory> accessories;
-    private ArrayList<Instrument> instruments;
-    private double till;
+    private ArrayList<ISell> stock;
+//    private double till;
     private String name;
 
     public Shop(double till, String name){
-        this.accessories = new ArrayList<Accessory>();
-        this.instruments = new ArrayList<Instrument>();
-        this.till = till;
+        this.stock = new ArrayList<ISell>();
+//        this.till = till;
         this.name = name;
     }
 

@@ -34,11 +34,15 @@ public abstract class Instrument implements IPlay, ISell {
         return rrp;
     }
 
-    public String instPlayed(){
-        return sound;
-    }
 
     public String getName() {
         return name;
     }
+
+    //methods
+
+    public String instPlayed(){
+        return sound;
+    }
+
 }

@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09df0006-cd73-4f21-a1c2-542c3448299f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/BowWax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/BowWax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Metronome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Metronome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/ValveOil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/ValveOil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Cello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Cello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Oboe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Oboe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Trumpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OboeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OboeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
