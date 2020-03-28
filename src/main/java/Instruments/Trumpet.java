@@ -8,8 +8,8 @@ public class Trumpet extends Instrument {
     private String mouthpeice;
 
     //constructor
-    public Trumpet(String type, double unitcost, double rrp, String sound, int valves, String mouthpeice) {
-        super(type, unitcost, rrp, sound);
+    public Trumpet(String type, double unitcost, double rrp, String sound, String name, int valves, String mouthpeice) {
+        super(type, unitcost, rrp, sound, name);
         this.valves = valves;
         this.mouthpeice = mouthpeice;
     }

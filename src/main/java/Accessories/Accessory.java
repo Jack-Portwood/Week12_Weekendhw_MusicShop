@@ -1,13 +1,21 @@
 package Accessories;
 
-public abstract class Accessory {
+import Behaviours.ISell;
 
+public abstract class Accessory implements ISell {
+
+    private String name;
     private double unitcost;
     private double rrp;
 
-    public Accessory(double unitcost, double rrp){
+    public Accessory(String name, double unitcost, double rrp){
+        this.name = name;
         this.unitcost = unitcost;
         this.rrp = rrp;
+    }
+
+    public String getName() {
+        return name;
     }
 
     public double getUnitcost() {

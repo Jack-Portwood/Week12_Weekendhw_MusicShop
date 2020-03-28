@@ -11,7 +11,8 @@ public class CelloTest {
 
     @Before
     public void before(){
-        cello = new Cello( "String",300.00, 400.00, "weighty, dark, powerful", 4,"Bow");
+        cello = new Cello( "String",300.00, 400.00,
+                "weighty, dark, powerful", "Cello",4, "Bow");
 
     }
 
@@ -42,6 +43,10 @@ public class CelloTest {
 
     @Test public void instPlayed(){
         assertEquals("weighty, dark, powerful", cello.instPlayed());
+    }
+
+    @Test public void getName(){
+        assertEquals("Cello", cello.getName());
     }
 
 

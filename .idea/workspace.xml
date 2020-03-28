@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09df0006-cd73-4f21-a1c2-542c3448299f" name="Default Changelist" comment="" />
+    <list default="true" id="09df0006-cd73-4f21-a1c2-542c3448299f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/BowWax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/BowWax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Metronome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Metronome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/ValveOil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/ValveOil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Cello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Cello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Oboe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Oboe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Trumpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CelloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OboeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OboeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zl8haZJwFORkaH2Uhl5AFxzW5I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,12 +49,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="JUnit.CelloTest">
+  <component name="RunManager" selected="JUnit.All in weekendhw_musicshop">
+    <configuration name="All in weekendhw_musicshop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekendhw_musicshop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CelloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekendhw_musicshop" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,9 +83,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OboeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekendhw_musicshop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OboeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrumpetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekendhw_musicshop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrumpetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in weekendhw_musicshop" />
         <item itemvalue="JUnit.CelloTest" />
+        <item itemvalue="JUnit.TrumpetTest" />
+        <item itemvalue="JUnit.OboeTest" />
         <item itemvalue="JUnit.CelloTest.getStrings" />
       </list>
     </recent_temporary>
@@ -93,25 +141,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585402918032" />
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1585407039147">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1585413889274">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585407039147" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585411887733">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585413889274" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585413554316">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585411887733" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585411887730">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585413554316" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585413554314">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585411887730" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585411887728">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585413554314" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585413554313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585411887728" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585411887731">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585413554313" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585413554315">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585411887731" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585413554315" />
   </component>
 </project>

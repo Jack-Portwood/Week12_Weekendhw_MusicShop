@@ -4,8 +4,8 @@ public class ValveOil extends Accessory {
 
     private String volume ;
 
-    public ValveOil(double unitcost, double rrp, String volume ){
-        super(unitcost, rrp);
+    public ValveOil(String name, double unitcost, double rrp, String volume ){
+        super(name,unitcost, rrp);
         this.volume = volume;
     }
 

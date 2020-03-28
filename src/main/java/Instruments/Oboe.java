@@ -8,8 +8,8 @@ public class Oboe extends Instrument {
     private String reed;
 
     //constructor
-    public Oboe (String type, double unitcost, double rrp, String sound, int keys, String reed){
-        super(type, unitcost,rrp, sound);
+    public Oboe (String type, double unitcost, double rrp, String sound, String name, int keys, String reed){
+        super(type, unitcost,rrp, sound, name);
         this.keys = keys;
         this.reed = reed;
 
