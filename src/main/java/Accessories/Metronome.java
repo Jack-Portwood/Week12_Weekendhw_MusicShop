@@ -1,16 +1,34 @@
 package Accessories;
 
-public class Metronome extends Accessory {
+import Behaviours.ISell;
+
+public class Metronome implements ISell {
 
     private String model;
+    private double unitcost;
+    private double rrp;
 
-    public Metronome(String name, double unitcost, double rrp, String model ){
-        super(name, unitcost, rrp);
+    public Metronome(String model, double unitcost, double rrp){
         this.model = model;
+        this.unitcost = unitcost;
+        this.rrp = rrp;
     }
-
-    public String getBrand() {
+//getters
+    public String getModel() {
         return model;
     }
 
+    public double getUnitCost() {
+        return unitcost;
+    }
+
+    public double getRRP() {
+        return rrp;
+    }
+
+    //methods
+
+    public double calMarkup() {
+        return this.rrp - this.unitcost;
+    }
 }

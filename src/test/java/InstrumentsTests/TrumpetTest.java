@@ -1,3 +1,5 @@
+package InstrumentsTests;
+
 import Instruments.Oboe;
 import Instruments.Trumpet;
 import org.junit.Before;
@@ -37,7 +39,7 @@ public class TrumpetTest {
     }
 
     @Test
-    public void GetMouthPeice(){
+    public void getMouthPeice(){
         assertEquals("Bach K351 Mega Tone", trumpet.getMouthpeice());
     }
 
@@ -45,7 +47,11 @@ public class TrumpetTest {
         assertEquals("Toot toot", trumpet.instPlayed());
     }
 
-    @Test public void canGet(){
+    @Test public void getName(){
         assertEquals("Trumpet", trumpet.getName());
+    }
+
+    @Test public void getMarkup(){
+        assertEquals( 100.00, trumpet.calMarkup(), 0.01);
     }
 }

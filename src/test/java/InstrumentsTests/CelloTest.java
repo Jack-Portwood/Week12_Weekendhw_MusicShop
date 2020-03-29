@@ -1,3 +1,5 @@
+package InstrumentsTests;
+
 import Instruments.Cello;
 import Instruments.Instrument;
 import org.junit.Before;
@@ -47,6 +49,10 @@ public class CelloTest {
 
     @Test public void getName(){
         assertEquals("Cello", cello.getName());
+    }
+
+    @Test public void getMarkup(){
+        assertEquals( 100.00, cello.calMarkup(), 0.01);
     }
 
 

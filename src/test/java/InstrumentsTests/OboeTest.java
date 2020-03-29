@@ -1,3 +1,5 @@
+package InstrumentsTests;
+
 import Instruments.Cello;
 import Instruments.Oboe;
 import org.junit.Before;
@@ -47,5 +49,8 @@ public class OboeTest {
 
     @Test public void getName(){
         assertEquals("Oboe", oboe.getName());
+    }
+    @Test public void getMarkup(){
+        assertEquals( 50.00, oboe.calMarkup(), 0.01);
     }
 }

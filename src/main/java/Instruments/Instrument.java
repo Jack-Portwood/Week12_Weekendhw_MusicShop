@@ -3,7 +3,7 @@ package Instruments;
 import Behaviours.IPlay;
 import Behaviours.ISell;
 
-public abstract class Instrument implements IPlay, ISell {
+public abstract class Instrument implements IPlay, ISell{
 //Inst variables
     private String type;
     private double unitcost;
@@ -43,6 +43,12 @@ public abstract class Instrument implements IPlay, ISell {
 
     public String instPlayed(){
         return sound;
+    }
+
+
+
+    public double calMarkup() {
+        return this.rrp - this.unitcost;
     }
 
 }

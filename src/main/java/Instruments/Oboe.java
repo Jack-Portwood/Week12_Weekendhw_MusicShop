@@ -1,6 +1,8 @@
 package Instruments;
 
-public class Oboe extends Instrument {
+import Behaviours.ISell;
+
+public class Oboe extends Instrument implements ISell {
 
     //Instance var
 
@@ -22,4 +24,6 @@ public class Oboe extends Instrument {
     public String getReed() {
         return reed;
     }
+
+
 }
