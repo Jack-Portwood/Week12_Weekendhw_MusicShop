@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09df0006-cd73-4f21-a1c2-542c3448299f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Shop/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Shop/Shop.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ShopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ShopTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="JUnit.ShopTest.canRemoveStock">
+  <component name="RunManager" selected="JUnit.All in weekendhw_musicshop">
     <configuration name="All in weekendhw_musicshop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekendhw_musicshop" />
       <option name="PACKAGE_NAME" value="" />
@@ -104,10 +102,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in weekendhw_musicshop" />
         <item itemvalue="JUnit.ShopTest.canRemoveStock" />
         <item itemvalue="JUnit.ShopTest" />
         <item itemvalue="JUnit.ShopTest.canAddStock" />
-        <item itemvalue="JUnit.All in weekendhw_musicshop" />
         <item itemvalue="JUnit.BowWaxTest" />
       </list>
     </recent_temporary>
@@ -150,25 +148,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585484143591" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585490793611">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585491655236">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793611" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585491655236" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161986" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585490793608">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585491655234">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793608" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585491655234" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161984" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585490793607">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585491655232">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793607" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585491655232" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161983" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585490793609">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585491655235">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793609" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585491655235" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161985" />
   </component>
 </project>
