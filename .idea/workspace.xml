@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09df0006-cd73-4f21-a1c2-542c3448299f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AccessoriesTest/BowWaxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AccessoriesTest/MetronomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AccessoriesTest/ValveOilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/BowWax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/BowWax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Metronome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Metronome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/ValveOil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/ValveOil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Oboe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instruments/Oboe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InstrumentsTests/CelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OboeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InstrumentsTests/OboeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InstrumentsTests/TrumpetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Accessories/Accessory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Accessories/BowWax.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Accessories/BowWax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Accessories/Metronome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Accessories/Metronome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Accessories/ValveOil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Accessories/ValveOil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Behaviours/ISell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Behaviours/ISell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Instruments/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Instruments/Instrument.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Shop/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Shop/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CelloTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/OboeTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ShopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ShopTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TrumpetTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +45,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="JUnit.All in weekendhw_musicshop">
+  <component name="RunManager" selected="JUnit.ShopTest.canRemoveStock">
     <configuration name="All in weekendhw_musicshop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekendhw_musicshop" />
       <option name="PACKAGE_NAME" value="" />
@@ -96,47 +73,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetronomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekendhw_musicshop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AccessoriesTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="AccessoriesTest" />
-      <option name="MAIN_CLASS_NAME" value="AccessoriesTest.MetronomeTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValveOilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopTest.canAddStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekendhw_musicshop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AccessoriesTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="AccessoriesTest" />
-      <option name="MAIN_CLASS_NAME" value="AccessoriesTest.ValveOilTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canAddStock" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValveOilTest.getcalMarkup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopTest.canRemoveStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekendhw_musicshop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AccessoriesTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="AccessoriesTest" />
-      <option name="MAIN_CLASS_NAME" value="AccessoriesTest.ValveOilTest" />
-      <option name="METHOD_NAME" value="getcalMarkup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canRemoveStock" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShopTest.canRemoveStock" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.ShopTest.canAddStock" />
         <item itemvalue="JUnit.All in weekendhw_musicshop" />
         <item itemvalue="JUnit.BowWaxTest" />
-        <item itemvalue="JUnit.MetronomeTest" />
-        <item itemvalue="JUnit.ValveOilTest.getcalMarkup" />
-        <item itemvalue="JUnit.ValveOilTest" />
       </list>
     </recent_temporary>
   </component>
@@ -178,10 +138,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="115" key="#Project_Structure" timestamp="1585402918032">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1585490075845">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="115" key="#Project_Structure/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585402918032" />
+    <state x="320" y="115" key="#Project_Structure/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490075845" />
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585485258733">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -190,25 +150,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585484143591" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585487511848">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585490793611">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585487511848" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793611" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161986" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585487511846">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585490793608">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585487511846" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793608" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161984" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585487511845">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585490793607">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585487511845" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793607" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161983" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585487511847">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585490793609">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585487511847" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1585490793609" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1585486161985" />
   </component>
 </project>

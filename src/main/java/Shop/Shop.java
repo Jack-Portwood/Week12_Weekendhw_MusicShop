@@ -22,6 +22,24 @@ public class Shop {
     }
 //methods
 
+    public void addStock(ISell isell){
+        this.stock.add(isell);
+    }
+
+    public void removeStock(ISell isell){
+        this.stock.remove(isell);
+    }
+
+    public int getStockCount(){
+        return this.stock.size();
+    }
+
+
+
+
+
+
+
 //    public double calMarkup() {
 //         return this.rrp - this.unitcost;
 }
